@@ -8,5 +8,5 @@ author_profile: true
 
 Under construction
 
-! [Alt text] (http://jkosie.github.io/images/remy.pdf)
+![Alt text] (http://jkosie.github.io/images/remy.pdf)
 
