@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV here](http://academicpages.github.io/files/Kosie_CV.pdf)
+[**Click here to download my CV.**](http://jkosie.github.io/files/Kosie_CV.pdf)
