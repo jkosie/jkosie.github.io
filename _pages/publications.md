@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=QLG6QGgAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Peer Reviewed Journal Articles
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Kosie, J.E.* & Baldwin, D. (2019). Attention rapidly reorgnizes to structure in a novel activity sequence, _Cognition, 182_, 31-44.
