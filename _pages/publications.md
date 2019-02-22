@@ -13,8 +13,7 @@ author_profile: true
 
 Baldwin, D., & **Kosie, J. E.** (invited submission, in prep). How does the mind render streaming experience as events?, _Topics in Cognitive Science._
 
-ManyBabies Consortium* (accepted pending data collection). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._
-* Role: data collection and data analysis team
+ManyBabies Consortium* (accepted pending data collection). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science._  * Role: data collection and data analysis team
 
 ## Peer Reviewed Conference Proceedings
 
